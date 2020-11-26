@@ -1,6 +1,6 @@
 # Farewill React Code Task
 
-This is a React code task for applicants for the Software Engineer role at Farewill. It's intended to help us get an idea of how familiar you are with writing idiomatic React components.
+This is a React code task for applicants for software engineering roles at Farewill. It's intended to help us get an idea of how familiar you are with writing idiomatic React components, and how you approach other front-end good practices.
 
 This task is to be completed in your own time, but please don't spend more than 2 hours on it! An incomplete version is okay.
 
@@ -65,6 +65,7 @@ If you don't want to use Glitch for any reason, you can [download the project](h
 
 #### Things you may wish to cover in your notes:
 
+- Thoughts and reasonings behind your decisions
 - What went well?
 - What could have gone better?
 - Is there anything particular you'd like to come back and improve if you had time? Why?
