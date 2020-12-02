@@ -54,7 +54,7 @@ The provided application uses JavaScript, React, and styled-components. You're w
 
 ### 💻 To get started
 
-1. ['Remix' this application](https://glitch.com/edit/#!/remix/farewill-react-task). This will create a copy of all this code for yourself with a unique URL.
+1. ['Remix' this application](https://glitch.com/edit/#!/remix/farewill-react-task). This will create a copy of all this code for yourself with a unique URL. If possible please do this with an account, as Glitch deletes anonymous applications after a while and we'd hate for your work to get lost!
 1. Work on your code until you're happy
    - The relevant code is in the `src` folder.
    - `src/constants.js` contains constants related to styles.
@@ -62,6 +62,12 @@ The provided application uses JavaScript, React, and styled-components. You're w
 1. Email us that link with your notes on your thoughts and reasoning behind the decisions you made.
 
 If you don't want to use Glitch for any reason, you can [download the project](https://glitch.happyfox.com/kb/article/26-how-can-i-download-or-backup-my-glitch-project/) and submit your completed task via email attachment or another platform such as GitHub.
+
+#### What we're looking for
+- First off, we're looking to see whether you have solved the problem (or have written a good awareness of what would be needed if you haven't finished)
+- We're looking at things like your code readability
+- We're also going to look at the way you've chosen to structure it
+- Finally, we'll be looking at how you've chosen to use the languages, including JS/React, modern CSS, semantic and accessible HTML
 
 #### Things you may wish to cover in your notes:
 
