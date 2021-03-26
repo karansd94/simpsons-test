@@ -35,7 +35,7 @@ const StyledButton = styled.button`
 `;
 
 const Button = props => {
-  return <StyledButton {...props} />;
+  return <StyledButton onClick={props.onFetchData} {...props} />;
 };
 
 export default Button;

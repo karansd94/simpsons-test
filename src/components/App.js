@@ -12,12 +12,18 @@ const StyledContentWrapper = styled.div`
 `;
 
 const App = () => {
+  
+  let onFetchData = () =>{
+    console.log('karan')
+  }
+  
+  
   return (
     <>
       <Header />
 
       <StyledContentWrapper>
-        <Button>Load quotes</Button>
+        <Button onFetchData={onFetchData}>Load quotes</Button>
       </StyledContentWrapper>
     </>
   );
