@@ -31,11 +31,14 @@ const StyledButton = styled.button`
   &:disabled {
     pointer-events: none;
     user-select: none;
+    background: ${COLOR.GREY.MEDIUM};
+    color: ${COLOR.WHITE}
+
   }
 `;
 
 const Button = props => {
-  return <StyledButton onClick={props.onFetchData} {...props} />;
+  return <StyledButton disabled={props.buttonDisabled} onClick={props.handleClick} {...props} />;
 };
 
 export default Button;

@@ -51,4 +51,8 @@ export const SPACING = {
   XL: "48px",
 };
 
+export const DEVICE = {
+  MOBILE: `(max-width: 812px)` 
+}
+
 export const CONTENT_WIDTH = "900px";
